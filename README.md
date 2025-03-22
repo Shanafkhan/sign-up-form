@@ -1,3 +1,3 @@
-Clone the Project
-Run npm install
+Clone the Project,
+Run npm install,
 Run npm run dev
